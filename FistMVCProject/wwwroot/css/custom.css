@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --backgroundColor: #f3f3f3;
+}
+
+body {
+    background: var(--backgroundColor);
+}
